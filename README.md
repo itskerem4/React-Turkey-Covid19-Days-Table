@@ -1,6 +1,6 @@
 ScreenShoot 
 
-![alt text](https://github.com/itskerem4/React-Turkey-Covid19-Days-Table/React-covid.png)
+![alt text](https://github.com/itskerem4/React-Turkey-Covid19-Days-Table/blob/main/React-covid.png)
 
 # Getting Started with Create React App
 
